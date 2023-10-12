@@ -4,18 +4,18 @@ import { VscCode } from 'react-icons/vsc';
 
 export default[
     {
-        title:'UI/UX Design',
+        title:'Data Analysis and Modeling',
         icon: <MdWeb className='w-full h-full'/>,
-        description: 'I love being artistic and creative, as a result I am really passionate about designing web and mobile applications and I use Figma.'
+        description: 'I analyze and model large and complex datasets. I employ statistical techniques and machine learning algorithms to extract insights, identify patterns, and make predictions from the data.'
     },
     {
-        title:'Web Development',
+        title:'Data Visualization and Communication',
         icon: <VscCode className='w-full h-full'/>,
-        description: 'I am conversant with HTML, CSS, JavaScript, TailwindCSS and JavaScript Frameworks like ReactJS, NextJS which I employ during web development. I am also conversant with PhP and the Django Framework for Backend Web development.'
+        description: 'I create beautiful visualizations and reports to effectively communicate data findings to stakeholders through charts, graphs, and Power BI dashboards to present complex information in a clear and understandable manner.'
     },
     { 
-        title:'Machine Learning',
+        title:'Decision Support and Strategy',
         icon: <FaHandHoldingHeart className='w-full h-full'/>,
-        description: 'I use Jupyter Notebooks and Google Colab for exploratory Data Analysis using Numpy, Pandas, Matplotlib. I use tools like PowerBI for data visualization.'
-    }, 
+        description: 'I provide data-driven insights and recommendations to support decision-making processes through collaboration with domain experts and stakeholders to understand business requirements and align data analysis with organizational goals consequently helping to drive data-informed strategies.'
+    }
 ]
