@@ -36,7 +36,6 @@ function App() {
         <button type='button' onClick={handleThemeSwitch} className="fixed z-10 left-2 top-2 bg-indigo-500 text-lg p-1 rounded-md ">
             {theme === 'dark' ? '🌙' : '🌞' }
         </button>
-        <button type='button' className='fixed right-2 top-2 bg-indigo-500 text-lg p-1 rounded-md'>Menu</button>
             <div className='font-inter bg:white dark:bg-slate-900 '>
                 <div className='max-w-5xl mx-auto w-11/12'>
                 <HeroSection></HeroSection>
