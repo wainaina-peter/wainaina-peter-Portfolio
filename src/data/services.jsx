@@ -5,12 +5,12 @@ import { VscCode } from 'react-icons/vsc';
 export default[
     {
         title:'Data Analysis and Modeling',
-        icon: <MdWeb className='w-full h-full'/>,
+        icon: <VscCode className='w-full h-full'/>,       
         description: 'I analyze and model large and complex datasets. I employ statistical techniques and machine learning algorithms to extract insights, identify patterns, and make predictions from the data.'
     },
     {
         title:'Data Visualization and Communication',
-        icon: <VscCode className='w-full h-full'/>,
+        icon: <MdWeb className='w-full h-full'/>,
         description: 'I create beautiful visualizations and reports to effectively communicate data findings to stakeholders through charts, graphs, and Power BI dashboards to present complex information in a clear and understandable manner.'
     },
     { 

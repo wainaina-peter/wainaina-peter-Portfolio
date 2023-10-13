@@ -14,7 +14,7 @@ export default [
     {
         title: 'Practical Time Series Analysis Forecast',
         imgUrl: 'https://user-images.githubusercontent.com/80960028/274636932-d8a972aa-6019-460c-9b47-c10049e3196a.jpg',
-        tech:['Python'],
+        tech:['(ARIMA)'],
         workUrl:'https://github.com/wainaina-peter/Stage-E-Hamoye-Internship-Practical-Time-Series-Analysis-Forecast'
     },
     {
