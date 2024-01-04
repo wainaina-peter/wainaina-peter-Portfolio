@@ -1,5 +1,11 @@
 export default [
     {
+        title: 'Heart Failure Prediction Model',
+        imgUrl: 'https://github.com/wainaina-peter/Heart-Failure-Prediction-Model/assets/80960028/ea65c069-90fa-4fc1-bac6-197495437824',
+        tech:['K Nearest Neighbors()'],
+        workUrl:'https://github.com/wainaina-peter/Heart-Failure-Prediction-Model.git'
+    },
+    {
         title: 'Airbnb price predictor',
         imgUrl: 'https://user-images.githubusercontent.com/80960028/273446869-a7cfbf00-39a1-4047-aca2-2edddcdc5303.jpg',
         tech:['Random Forest Regressor() and Linear Regression'],
