@@ -4,7 +4,7 @@ function HeroSection() {
   return (
     <div id='hero' className='flex items-center justify-center flex-col py-20'>
         <div className='text-center'>
-        <h1 className='text-5xl md:text-4xl mb-1 md:mb-3 text-indigo-600 font-semibold font-inter dark:text-indigo-500'>Hello there👋🏽, my name is Peter Wainaina and I am a Data Scientist.</h1>
+        <h1 className='load-hidden text-5xl md:text-4xl mb-1 md:mb-3 text-indigo-600 font-semibold font-inter dark:text-indigo-500'>Hello there👋🏽, my name is <span class="text-green-500"> Peter Wainaina </span> <br /> I am a Data Scientist.</h1>
         <img src='src/data/pictures/datascientist22.jpg' alt='Data Scientist'/>
         <br />
         <p className='text-md md:text-xl mb-3 text-gray-600 dark:text-gray-300'>I have a strong background in statistics and machine learning and I love exploring complex datasets and extracting meaningful insights to drive data-informed decisions.</p>
