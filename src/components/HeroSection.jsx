@@ -1,10 +1,6 @@
-import React {useEffect} from 'react'
+import React from 'react'
 
 function HeroSection() {
-  useEffect(() => {
-    const heading = document.querySelector('.load-hidden');
-    heading.classList.remove('load-hidden');
-  }, []);
   return (
     <div id='hero' className='flex items-center justify-center flex-col py-20'>
         <div className='text-center'>
