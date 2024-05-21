@@ -4,6 +4,7 @@ import Services from './components/Services';
 import Works from './components/Works';
 import About from './components/About';
 import Footer from './components/Footer';
+import { Experience } from "./components/Experience/Experience";
 
 function App() {
     const [theme, setTheme] = useState(null);
@@ -40,6 +41,8 @@ function App() {
                 <div className='max-w-5xl mx-auto w-11/12'>
                 <HeroSection></HeroSection>
                 <Services></Services>
+                <Experience></Experience>
+                <br />
                 <Works></Works>
                 <About></About>
                 <Footer></Footer>

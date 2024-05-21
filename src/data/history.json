@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Junior Software Engineer",
+    "organisation": "Tovuti Grp Ltd",
+    "startDate": "Sept, 2023",
+    "endDate": "Dec, 2023",
+    "experiences": ["Implemented and optimized RESTful APIs", "Web Apps performance, security, scalability", "Microservices design and implementation"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "Tovuti Grp Ltd",
+    "startDate": "May, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Implemented UI Designs with React", "Integrated APIs to Frontend", "Created interactive components with React"],
+    "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Data Science Intern",
+    "organisation": "Hamoye.com",
+    "startDate": "May, 2023",
+    "endDate": "August, 2023",
+    "experiences": [
+      "EDA, ML Building & Deployment", "Neural Nets, Image Recognition" ],
+    "imageSrc": "history/netflix.png"
+  }
+]
